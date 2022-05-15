@@ -1,0 +1,23 @@
+body {
+  background-color: #FDF6EC;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 15%;
+  border-color: #B7CADB;
+  border-width: 5px;
+}
+p {
+  text-align: center;
+  font-family: sans-serif;
+}
+table{
+  text-align: center;
+}
+h1{
+  color: #DAB88B;
+}
+h3{
+  color: #DAB88B;
+}
