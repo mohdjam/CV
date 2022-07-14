@@ -17,6 +17,10 @@ table{
 }
 h1{
   color: #DAB88B;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h2{
+  font-family: cursive;
 }
 h3{
   color: #DAB88B;
